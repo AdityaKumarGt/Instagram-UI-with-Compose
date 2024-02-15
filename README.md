@@ -3,7 +3,7 @@
 # Instagram UI
 
 ## Overview
-This android app is a UI clone of Instagram's Profle Screen, made with Kotlin & Jetpack Compose.
+This android app is a UI clone of Instagram's Profile Screen, made with Kotlin & Jetpack Compose.
 
 ## Screenshots
 <img src="https://github.com/AdityaKumarGt/Instagram-UI-with-Compose/assets/121026525/bddadd72-0d9c-4520-8422-a5e53daeff50" alt="Home_screen" width="200">
