@@ -13,7 +13,7 @@ This android app is a UI clone of Instagram, made with Jetpack Compose.
 <img src="https://github.com/AdityaKumarGt/Instagram-UI-with-Compose/assets/121026525/38d21559-4e75-433d-af30-9fd199675dee" alt="Home_screen" width="200">
 
 ## Video Demo
-https://github.com/AdityaKumarGt/Instagram-UI-with-Compose/assets/121026525/a3ebefb8-ac09-4a39-a4dc-df3c8a73fb65
+https://github.com/AdityaKumarGt/Instagram-UI-with-Compose/assets/121026525/0ccee571-371f-4f56-9b31-cfa0f01a1ac4
 
 
 
